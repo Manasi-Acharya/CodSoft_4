@@ -1,1 +1,2 @@
 # CodSoft_4
+This Python-based Rock Paper Scissors game allows users to play the classic game against the computer. The program randomly selects the computer’s choice and compares it with the user’s input to determine the winner. The game demonstrates the use of loops, conditionals, and random number generation in Python. It’s a fun project for beginners to enhance their coding skills while learning about user interaction and game logic.
